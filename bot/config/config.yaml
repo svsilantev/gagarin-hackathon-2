@@ -1,0 +1,13 @@
+env: "local"
+log-level: "DEBUG"
+
+bot:
+  token:
+
+redis:
+  host:
+  port:
+  password:
+
+sqlite:
+  path:
